@@ -1,11 +1,56 @@
-# Sample Snack app
+Getting Started
 
-Open the `App.js` file to start writing some code. You can preview the changes directly on your phone or tablet by scanning the **QR code** or use the iOS or Android emulators. When you're done, click **Save** and share the link!
+When you open the app, you’ll be taken directly to the main dashboard. From here, you can explore your fitness data, log activity, and view your progress at a glance.
 
-When you're ready to see everything that Expo provides (or if you want to use your own editor) you can **Download** your project and use it with [expo cli](https://docs.expo.dev/get-started/installation/#expo-cli)).
+No setup is required to begin using the app.
 
-All projects created in Snack are publicly available, so you can easily share the link to this project via link, or embed it on a web page with the `<>` button.
+Navigating the App
 
-If you're having problems, you can tweet to us [@expo](https://twitter.com/expo) or ask in our [forums](https://forums.expo.dev/c/expo-dev-tools/61) or [Discord](https://chat.expo.dev/).
+Pulse Fitness is designed to be simple and intuitive:
 
-Snack is Open Source. You can find the code on the [GitHub repo](https://github.com/expo/snack).
+Dashboard
+View your daily summary, including activity metrics and progress indicators.
+
+Workouts
+Browse available workouts and track completed sessions.
+
+Activity Tracking
+Log steps, active minutes, and other fitness data.
+
+Progress & Insights
+Visualize trends over time with charts, progress rings, and streaks.
+
+Using Core Features
+Track Your Activity
+
+Your daily activity is automatically summarized on the dashboard.
+
+Progress updates in real time as data changes.
+
+Monitor Progress
+
+View weekly and monthly trends.
+
+Earn visual indicators for consistency and goal completion.
+
+Stay Consistent
+
+Use streaks and progress visuals to stay motivated.
+
+Focus on daily improvement rather than perfection.
+
+Saving & Continuing
+
+Your progress remains available as you continue using the app. Simply reopen Pulse Fitness to pick up where you left off.
+
+Tips for Best Experience
+
+Check the dashboard daily to stay aware of your activity levels.
+
+Set personal goals and track progress consistently.
+
+Review trends weekly to understand long-term progress.
+
+Feedback & Improvements
+
+Pulse Fitness is continually evolving. Feedback helps improve features, design, and usability.
